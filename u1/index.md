@@ -1,6 +1,5 @@
 ---
 layout: index
-
 ---
 <section data-markdown>
     <script type="text/template">
